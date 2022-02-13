@@ -111,8 +111,9 @@ Publish the website in the given URL.
 
 </body>
 </html>
-
+```
 ## Gallery page:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -207,8 +208,10 @@ Publish the website in the given URL.
   
 </body>
 </html>
+```
 
-## about us page:
+### about us page:
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -280,13 +283,13 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![OUTPUT](home.png)
+
 
 ## Gallery Page:
-![OUTPUT](gallery.png)
+
   
 ## About us:
-![OUTPUT](aboutus.png))
+
 
 
 ## Result:
