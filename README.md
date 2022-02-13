@@ -280,15 +280,18 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-[home](https://user-images.githubusercontent.com/94233064/153750452-ab8adc73-30ad-44dd-a1ea-37267c4c8f0b.png)
+![home - Copy](https://user-images.githubusercontent.com/94233064/153750605-3aabf6f7-9f15-4751-b051-aa1e26a67b5a.png)
+
 
 
 ## Gallery Page:
-[gallery](https://user-images.githubusercontent.com/94233064/153750560-e301897e-cef6-42a2-b424-2b934449f1d6.png)
+![gallery](https://user-images.githubusercontent.com/94233064/153750607-92ed3a36-c7ce-4f86-9798-1524f99b242f.png)
+
 
   
 ## About us:
-[aboutus](https://user-images.githubusercontent.com/94233064/153750553-35f6f06c-0f3e-49e3-90d2-e088e50dc47c.png)
+![aboutus](https://user-images.githubusercontent.com/94233064/153750611-28d96c67-7558-4301-aaa4-5c3a95f83f34.png)
+
 
 
 
