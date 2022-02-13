@@ -288,8 +288,9 @@ Publish the website in the given URL.
 )
   
 ## About us:
-![OUTPUT](![home](https://user-images.githubusercontent.com/94233064/153750482-9f5da95c-b971-49cc-9c4c-6a06fc33f035.png)
-)
+![OUTPUT](![home](https://user-images.githubusercontent.com/94233064/153750513-a480b1e5-84c5-4369-bed0-64581df0790e.png)
+
+
 
 
 ## Result:
