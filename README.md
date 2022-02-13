@@ -284,11 +284,12 @@ Publish the website in the given URL.
 
 
 ## Gallery Page:
-![OUTPUT](![home](https://user-images.githubusercontent.com/94233064/153750466-bd1195c7-ac1c-4992-85c2-86f1d977eedc.png)
-)
+![OUTPUT]![gallery](https://user-images.githubusercontent.com/94233064/153750560-e301897e-cef6-42a2-b424-2b934449f1d6.png)
+
   
 ## About us:
-![OUTPUT](![home](https://user-images.githubusercontent.com/94233064/153750513-a480b1e5-84c5-4369-bed0-64581df0790e.png)
+![OUTPUT![aboutus](https://user-images.githubusercontent.com/94233064/153750553-35f6f06c-0f3e-49e3-90d2-e088e50dc47c.png)
+
 
 
 
