@@ -280,15 +280,15 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![output](home.png)
+![OUTPUT](home.png)
 
 ## Gallery Page:
-![output](galley.png)
+![OUTPUT](gallery.png)
   
 ## About us:
-![output](aboutus.png)
-
+![OUTPUT](aboutus.png))
 
 
 ## Result:
+ THUS WE SUCCESSFULLY MADE THE WEBSITE USING BOOTSTRAP
 
