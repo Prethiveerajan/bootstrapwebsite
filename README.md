@@ -283,14 +283,6 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-<<<<<<< HEAD
-
-
-## Gallery Page:
-
-  
-## About us:
-=======
 ![home - Copy](https://user-images.githubusercontent.com/94233064/153750605-3aabf6f7-9f15-4751-b051-aa1e26a67b5a.png)
 
 
